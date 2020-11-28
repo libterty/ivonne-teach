@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T12:46:12.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="ZTWQj3y2I_LQzHEx_UZB" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T12:52:40.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="v20pyGTos3kbD4Y9oAPR" version="13.10.4" type="github" pages="2">
   <diagram id="JiYCTvw5QqhPHcAvZPTo" name="Page-1">
     <mxGraphModel dx="946" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,29 @@
         </mxCell>
         <mxCell id="KhbviZeAXucW9SMGxdH4-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Simply to say that how much computing power you need to process&lt;br&gt;your algorithm.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="360" width="660" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kmsz5SR7jzIM4KC7a5zy" name="Linear">
+    <mxGraphModel dx="946" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-0" />
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-1" parent="qrsukwPfiZrhA7Do1eR6-0" />
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;String Reverse&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qrsukwPfiZrhA7Do1eR6-1">
+          <mxGeometry x="304" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qrsukwPfiZrhA7Do1eR6-1" source="qrsukwPfiZrhA7Do1eR6-3" target="qrsukwPfiZrhA7Do1eR6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;abcdef&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrsukwPfiZrhA7Do1eR6-1">
+          <mxGeometry x="248" y="260" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;fedcba&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qrsukwPfiZrhA7Do1eR6-1">
+          <mxGeometry x="454" y="260" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrsukwPfiZrhA7Do1eR6-7" value="Each additional step we made in here equals&lt;br&gt;to 1 step. This would be a linear runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qrsukwPfiZrhA7Do1eR6-1">
+          <mxGeometry x="281" y="370" width="266" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
