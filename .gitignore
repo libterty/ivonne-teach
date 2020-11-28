@@ -17,3 +17,6 @@ logs
 
 # Teaching Markdown
 prepare.md
+
+# modules
+*/node_modules/
