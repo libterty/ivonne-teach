@@ -4,17 +4,6 @@ import memoryHandler as mh
 
 q = queue.Queue(maxsize=10)
 
-# def worker():
-#     while True:
-#         item = q.get()
-#         print('Working on' + item)
-#         print('Finished' + item)
-#         q.task_done()
-
-
-# turn-on the worker thread
-# threading.Thread(target=worker, daemon=True).start()
-
 @mh.track
 def looping():
     for i in range(100):
