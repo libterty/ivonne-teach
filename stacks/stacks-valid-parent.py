@@ -28,9 +28,9 @@ class Solution(object):
             return False
         stack = []
         maps = {
-          ")": "(",
-          "}": "{",
-          "]": "["
+            ")": "(",
+            "}": "{",
+            "]": "["
         }
         for i in s:
             if i not in maps:
